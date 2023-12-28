@@ -1,3 +1,10 @@
-{
-"name": "Adam",
-}
+ { "created": "12.06.2023",
+  "isMainPlan": true,
+  "title": "Mój budżet",
+  "buildings": [
+    {"name": "Tarczyn", "cost": 3500},
+    {"name": "Grójec", "cost": 4200}
+  ],
+  "media": [
+    {"name": "Gaz", "cost": 3000}
+  ],
