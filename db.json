@@ -3,11 +3,23 @@
   "created": "25.06.2023",
   "isMainPlan": true,
   "buildings": [
-    {"name": "Tarczyn", "cost": 3500},
-    {"name": "Grójec", "cost": 4200}
-    ],
+    {
+      "name": "Tarczyn",
+      "cost": 3500
+    },
+    {
+      "name": "Grójec",
+      "cost": 4200
+    }
+  ],
   "media": [
-    {"name": "gaz", "cost": 320},
-    {"name": "prąd", "cost": 400}
-    ]
+    {
+      "name": "gaz",
+      "cost": 320
+    },
+    {
+      "name": "prąd",
+      "cost": 400
+    }
+  ]
 }
